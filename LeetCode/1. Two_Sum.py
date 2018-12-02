@@ -37,4 +37,4 @@ class Solution:
 nums = [2, 3,5,7, 11, 15]
 target = 10
 twosum = Solution()
-print twosum.twoSum(nums,target)
+print(twosum.twoSum(nums,target))

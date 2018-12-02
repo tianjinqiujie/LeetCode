@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdfab69f-20b7-4d3a-94fa-2bd8ad96216f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/1.Two_Sum.py" afterPath="$PROJECT_DIR$/LeetCode/1. Two_Sum.py" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/2.Add Two Numbers.py" afterPath="$PROJECT_DIR$/LeetCode/2. Add Two Numbers.py" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/1. Two_Sum.py" afterPath="$PROJECT_DIR$/LeetCode/1. Two_Sum.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,11 +49,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6. ZigZag Conversion.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="6. ZigZag Conversion.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/6. ZigZag Conversion.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1. Two_Sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/1. Two_Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="39" column="33" lean-forward="false" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -80,6 +88,7 @@
         <option value="$PROJECT_DIR$/LeetCode/4. Median of Two Sorted Arrays.py" />
         <option value="$PROJECT_DIR$/LeetCode/5. Longest Palindromic Substring.py" />
         <option value="$PROJECT_DIR$/LeetCode/6. ZigZag Conversion.py" />
+        <option value="$PROJECT_DIR$/LeetCode/1. Two_Sum.py" />
       </list>
     </option>
   </component>
@@ -339,6 +348,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/1. Two_Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="39" column="33" lean-forward="false" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
           <folding />
         </state>
       </provider>
