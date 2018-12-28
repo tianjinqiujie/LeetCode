@@ -8,4 +8,3 @@ class Solution(object):
         return haystack.find(needle)
 
 
-    
